@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: cloud-foundations-command-center
+    runtime: static
+    staticPublishPath: .
